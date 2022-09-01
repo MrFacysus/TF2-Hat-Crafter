@@ -1,0 +1,11 @@
+D:\Programming\TF2HatCrafter\bin\Debug\TF2HatCrafter.exe.config
+D:\Programming\TF2HatCrafter\bin\Debug\TF2HatCrafter.exe
+D:\Programming\TF2HatCrafter\bin\Debug\TF2HatCrafter.pdb
+D:\Programming\TF2HatCrafter\obj\Debug\TF2HatCrafter.csproj.AssemblyReference.cache
+D:\Programming\TF2HatCrafter\obj\Debug\TF2HatCrafter.csproj.SuggestedBindingRedirects.cache
+D:\Programming\TF2HatCrafter\obj\Debug\TF2HatCrafter.Clicker.resources
+D:\Programming\TF2HatCrafter\obj\Debug\TF2HatCrafter.Properties.Resources.resources
+D:\Programming\TF2HatCrafter\obj\Debug\TF2HatCrafter.csproj.GenerateResource.cache
+D:\Programming\TF2HatCrafter\obj\Debug\TF2HatCrafter.csproj.CoreCompileInputs.cache
+D:\Programming\TF2HatCrafter\obj\Debug\TF2HatCrafter.exe
+D:\Programming\TF2HatCrafter\obj\Debug\TF2HatCrafter.pdb
